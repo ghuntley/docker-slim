@@ -5,6 +5,8 @@
 [![Discord chat](https://img.shields.io/static/v1.svg?label=chat&message=on%20discord&color=7389D8)](https://discord.gg/9tDyxYS)
 [![Download DockerSlim](https://img.shields.io/badge/download-docker--slim-blue)](https://github.com/docker-slim/docker-slim#installation)
 
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/docker-slim/docker-slim)
+
 # Optimize Your Experience with Containers. Make Your Containers Better, Smaller, More Secure and Do Less to Get There (free and open source!)
 
 Don't change anything in your Docker container image and minify it by up to 30x making it secure too! Optimizing images isn't the only thing it can do though. It can also help you understand and author better container images.

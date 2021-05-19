@@ -14,7 +14,9 @@ Open an issue and provide enough cotext information to repro the condition. Don'
 
 ### Environment Setup
 
-See the `BUILD PROCESS` section in the `README.md` file.
+See the `BUILD PROCESS` section in the `README.md` file. Alternatively if you have a web browser, you can get a fully pre-configured development environment in one click:
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://gitpod.io/#https://github.com/docker-slim/docker-slim)
 
 ### Enhancements
 
